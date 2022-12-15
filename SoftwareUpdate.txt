@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+YOLOv8 INT8 TFLite Inference Example (#7317)
