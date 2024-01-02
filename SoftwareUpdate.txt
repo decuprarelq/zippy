@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+Add PR Summary step to Ultralytics Actions (#7675)
